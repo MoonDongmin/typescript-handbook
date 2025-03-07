@@ -15,3 +15,13 @@
 - [5. 열거형 타입](section02.TypeScript.basics/05.Enum.type.md)
 - [6. any와 unknown](section02.TypeScript.basics/06.Any.and.Unknown.md)
 - [7. void와 never](section02.TypeScript.basics/07.Void.and.Never.md)
+
+## [3. 타입스크립트 이해하기 ](section03.Understanding.TypeScript%20)
+- [01. 타입은 집합이다](section03.Understanding.TypeScript%20/01.Type.is.a.Set.md)
+- [02. 타입 계층도와 함께 기본타입 살펴보기](section03.Understanding.TypeScript%20/02.Examining.basic.types.with.type.hierarchy.md)
+- [03. 객체 타입의 호환성](section03.Understanding.TypeScript%20/03.Object.type.compatibility.md)
+- [04. 대수 타입](section03.Understanding.TypeScript%20/04.Algebraic.type.md)
+- [05. 타입 추론](section03.Understanding.TypeScript%20/05.Type.inference.md)
+- [06. 타입 단언](section03.Understanding.TypeScript%20/06.Type.assertion.md)
+- [07. 타입 좁히기](section03.Understanding.TypeScript%20/07.Narrow.down.the.type.md)
+- [08. 서로소 유니온 타입](section03.Understanding.TypeScript%20/08.Coprime.union.type.md)
