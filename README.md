@@ -26,12 +26,12 @@
 - [7. 타입 좁히기](section03.Understanding.TypeScript%20/07.Narrow.down.the.type.md)
 - [8. 서로소 유니온 타입](section03.Understanding.TypeScript%20/08.Coprime.union.type.md)
 
-## [4. 함수와 타입](sectoin04.Functions.and.Types)
-- [0. 함수 타입](sectoin04.Functions.and.Types/00.Function.type.md)
-- [1. 함수 타입 표현식과 호출 시그니쳐](sectoin04.Functions.and.Types/01.Function.type.expressions.and.call.signatures.md)
-- [2. 함수 타입의 호환성](sectoin04.Functions.and.Types/02.Function.type.compatibility.md)
-- [3. 함수 오버로딩](sectoin04.Functions.and.Types/03.Function.overloading.md)
-- [4. 사용자 정의 타입가드](sectoin04.Functions.and.Types/04.Custom.type.guard.md)
+## [4. 함수와 타입](section04.Functions.and.Types)
+- [0. 함수 타입](section04.Functions.and.Types/00.Function.type.md)
+- [1. 함수 타입 표현식과 호출 시그니쳐](section04.Functions.and.Types/01.Function.type.expressions.and.call.signatures.md)
+- [2. 함수 타입의 호환성](section04.Functions.and.Types/02.Function.type.compatibility.md)
+- [3. 함수 오버로딩](section04.Functions.and.Types/03.Function.overloading.md)
+- [4. 사용자 정의 타입가드](section04.Functions.and.Types/04.Custom.type.guard.md)
 
 ## [5. 인터페이스](section05.Interface)
 - [0. 인터페이스](section05.Interface/00.Interface.md)
