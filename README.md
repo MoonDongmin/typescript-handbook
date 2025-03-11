@@ -32,3 +32,8 @@
 - [2. 함수 타입의 호환성](sectoin04.Functions.and.Types/02.Function.type.compatibility.md)
 - [3. 함수 오버로딩](sectoin04.Functions.and.Types/03.Function.overloading.md)
 - [4. 사용자 정의 타입가드](sectoin04.Functions.and.Types/04.Custom.type.guard.md)
+
+## [5. 인터페이스](section05.Interface)
+- [0. 인터페이스](section05.Interface/00.Interface.md)
+- [1. 인터페이스 확장하기](section05.Interface/01.Extending.the.Interface.md)
+- [2. 인터페이스 선언 합치기](section05.Interface/02.Combining.interface.declarations.md)
