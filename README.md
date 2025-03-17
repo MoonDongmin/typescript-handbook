@@ -38,7 +38,7 @@
 - [1. 인터페이스 확장하기](section05.Interface/01.Extending.the.Interface.md)
 - [2. 인터페이스 선언 합치기](section05.Interface/02.Combining.interface.declarations.md)
 
-## [클래스](section06.Class)
+## [6. 클래스](section06.Class)
 - [0. 자바스크립트의 클래스 소개](section06.Class/00.Class.introduction.md)
 - [1. 타입스크립트의 클래스](section06.Class/01.Typescript%27s.Class.md)
 - [2. 접근 제어자](section06.Class/02.Access.Controller.md)
