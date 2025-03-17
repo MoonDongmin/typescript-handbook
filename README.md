@@ -43,3 +43,12 @@
 - [1. 타입스크립트의 클래스](section06.Class/01.Typescript%27s.Class.md)
 - [2. 접근 제어자](section06.Class/02.Access.Controller.md)
 - [3. 인터페이스와 클래스](section06.Class/03.Interface.and.Class.md)
+
+
+## [7. 제네릭](section07.Generic)
+- [0. 제네릭 소개](section07.Generic/00.Generic.introduction.md)
+- [1. 타입 변수 응용하기](section07.Generic/01.Applying.type.variables.md)
+- [2. map, forEach 메서드 타입 정의하기](section07.Generic/02.Defining.map.forEach.method.types.md)
+- [3. 제네릭 인터페이스, 제네릭 타입 별칭](section07.Generic/03.Generic.interfaces.generic.type.aliases.md)
+- [4. 제네릭 클래스](section07.Generic/04.Generic.class.md)
+- [5. 프로미스와 제네릭](section07.Generic/05.Promise.and.Generic.md)
