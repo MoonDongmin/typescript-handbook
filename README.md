@@ -52,3 +52,9 @@
 - [3. 제네릭 인터페이스, 제네릭 타입 별칭](section07.Generic/03.Generic.interfaces.generic.type.aliases.md)
 - [4. 제네릭 클래스](section07.Generic/04.Generic.class.md)
 - [5. 프로미스와 제네릭](section07.Generic/05.Promise.and.Generic.md)
+
+## [8. 타입 조작하기](section08.Manipulating.types)
+- [1. 인덱스드 엑세스 타입](section08.Manipulating.types/01.Indexed.Access.Type.md)
+- [2. keyof & typeof 연산자](section08.Manipulating.types/02.Keyof%26Typeof.operators.md)
+- [3. 맵드 타입](section08.Manipulating.types/03.Maped.Type.md)
+- [4. 템플릿 리터럴 타입](section08.Manipulating.types/04.Template.Literal.Type.md)
