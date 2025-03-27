@@ -58,3 +58,8 @@
 - [2. keyof & typeof 연산자](section08.Manipulating.types/02.Keyof%26Typeof.operators.md)
 - [3. 맵드 타입](section08.Manipulating.types/03.Maped.Type.md)
 - [4. 템플릿 리터럴 타입](section08.Manipulating.types/04.Template.Literal.Type.md)
+
+## [9. 조건부 타입](section09.Conditional.Type%20)
+- [0. 조건부 타입](section09.Conditional.Type%20/00.Conditional.Type.md)
+- [1. 분산적인 조건부 타입](section09.Conditional.Type%20/01.Distributed.conditional.type.md)
+- [2. infer](section09.Conditional.Type%20/02.infer.md)
